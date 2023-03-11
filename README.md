@@ -5,6 +5,7 @@
 
 
 
-## Project https://github.com/Jeff-Robertss/jeff-robertss.github.io/issues/1 
+## [link text itself]: https://github.com/Jeff-Robertss/jeff-robertss.github.io/issues/1 
 #### **Visualization Final Paper - Suicide Mortality & Correlations**
+#### During my first semester, I analyzed
 
