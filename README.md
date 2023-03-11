@@ -11,7 +11,7 @@
 
 ## **Contact Information**
 #### If you are interested in speaking further, please reach out!
-#### (201) 937-5417 | jeffrey-roberts@uiowa.edu![image](https://user-images.githubusercontent.com/117178841/224465418-254532e2-70f2-401e-8ec6-ab9e3367b7fb.png)
+#### (201) 937-5417 | jeffrey-roberts@uiowa.edu
 
 
 
