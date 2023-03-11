@@ -7,4 +7,4 @@
 
 
 Visualization Final Paper - Suicide Mortality & Correlations
-###Final Paper https://github.com/Jeff-Robertss/jeff-robertss.github.io/issues/1
+### https://github.com/Jeff-Robertss/jeff-robertss.github.io/issues/1 as Final Paper
