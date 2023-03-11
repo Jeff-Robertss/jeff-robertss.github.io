@@ -7,7 +7,12 @@
 
 ## Project (https://github.com/Jeff-Robertss/jeff-robertss.github.io/issues/1) 
 #### **Visualization Final Paper - Suicide Mortality & Correlations**
-#### During my first semester, I analyzed CDC collected suicide data for my final paper for the Information Visualization course. This event is sadly a trend that is constantly increasing year after year, especially in the US. In my paper, I seperated the suicide rates by state and researched factors in our society that could potentially correlate with high rates: **gun law strenght, mental health access, and state income per capita in each state.** 
+#### During my first semester, I analyzed CDC collected suicide data for my final paper for the Information Visualization course. This event is sadly a trend that is constantly increasing year after year, especially in the US. Using Tableau, I seperated the suicide rates by state and researched factors in our society that could potentially correlate with high rates: **gun law strength, mental health access, and state income per capita in each state.** 
+
+## Project 
+#### **Data Management Final Paper - Northeast Housing Costs
 
 
+
+[Project#2](https://github.com/Jeff-Robertss/jeff-robertss.github.io/issues/2)
 
